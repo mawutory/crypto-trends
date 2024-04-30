@@ -1,0 +1,4 @@
+Model,RMSE
+Linear Regression,17.209986873917522
+Random Forest,9.140226453575508
+Gradient Boosting,10.306075268788861
